@@ -96,7 +96,7 @@ export const siteSettings: SiteSettings = {
   whatsapp: '+6588888888',
   mapUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8!2d103.8!3d1.28!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMcKwMTYnNDguMCJOIDEwM8KwNDgnMDAuMCJF!5e0!3m2!1sen!2ssg!4v1',
   operatingHours: 'Mon–Thu: 11:30 AM – 10:00 PM | Fri–Sun: 11:00 AM – 11:00 PM',
-  heroImage: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1920',
+  heroImage: 'https://instagram.fcgk4-2.fna.fbcdn.net/v/t51.82787-15/656837600_17880759147531088_2047296088711805959_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzg2MTMwMDAyMzQxMDE2ODE3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMiJ9&_nc_ohc=jiy_DliiX14Q7kNvwFSwdxZ&_nc_oc=AdouD5gONwhcXrlyQH64vZUi8Nao0R43oULK2T-t1PgJNvuCYI7PpaE7IgAMlZZL6XA&_nc_ad=z-m&_nc_cid=1230&_nc_zt=23&_nc_ht=instagram.fcgk4-2.fna&_nc_gid=srMtNIuniFkJfhCy9XFQ5w&_nc_ss=7a32e&oh=00_Af0LP_MBTV8yEJiWyDlsVVGR52UwVKnykNTcIOmCyCFmCQ&oe=69D99C7A',
   aboutText: 'Founded on a legacy of culinary excellence, Gui Bin Signature brings the grandeur of imperial Chinese cuisine to the modern dining table. Our master chefs, trained in the ancient traditions of Cantonese, Sichuan, and Teochew cuisine, craft each dish as a tribute to centuries of culinary artistry.\n\nEvery ingredient is meticulously sourced, every presentation is a work of art, and every meal is an unforgettable journey through the rich tapestry of Chinese gastronomy.',
   aboutImage: 'https://images.unsplash.com/photo-1550966871-3ed3cdb51f3a?w=600',
   instagram: 'https://instagram.com/guibinsignature',
